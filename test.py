@@ -9,6 +9,7 @@ def make_great(names):
 
     return b  # 返回新列表
 
+print(111)
 
 b = []
 for i in range(1,5):
